@@ -11,7 +11,7 @@ public class Processor {
 
     public static void main(String[] args) {
         Processor linepro = new Processor();
-        linepro.lines.add(new Line("Line 2"));
+        linepro.lines.add(new Line("Line 3"));
     }
 
 }
